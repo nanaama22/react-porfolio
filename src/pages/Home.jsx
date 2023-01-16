@@ -63,56 +63,28 @@ function Home() {
                                         <span className="fw-medium text-primary">Name:</span> Nana Ama Ansah
                                    </div>
                                    <div className="col-sm-6 py-1">
-                                        <span className="fw-medium text-primary">Birthday:</span> 1 April 1990
+                                        <span className="fw-medium text-primary">Birthday:</span> 8 April 1998
                                    </div>
                                    <div className="col-sm-6 py-1">
-                                        <span className="fw-medium text-primary">Degree:</span> Master
+                                        <span className="fw-medium text-primary">Degree:</span> Bachelors
                                    </div>
                                    <div className="col-sm-6 py-1">
-                                        <span className="fw-medium text-primary">Experience:</span> 5 Years
+                                        <span className="fw-medium text-primary">Experience:</span> 2 Years
                                    </div>
                                    <div className="col-sm-6 py-1">
-                                        <span className="fw-medium text-primary">Phone:</span> +012 345 6789
+                                        <span className="fw-medium text-primary">Phone:</span> +233 54 237 4436
                                    </div>
                                    <div className="col-sm-6 py-1">
-                                        <span className="fw-medium text-primary">Email:</span> info@example.com
+                                        <span className="fw-medium text-primary">Email:</span> nanaama.ansah@womentechsters.org
                                    </div>
                                    <div className="col-sm-6 py-1">
-                                        <span className="fw-medium text-primary">Address:</span> 123 Street, New York, USA
+                                        <span className="fw-medium text-primary">Address:</span> Accra Ghana
                                    </div>
                                    <div className="col-sm-6 py-1">
                                         <span className="fw-medium text-primary">Freelance:</span> Available
                                    </div>
                               </div>
-                              <div className="row g-4">
-                                   <div className="col-md-4 col-lg-6 col-xl-4">
-                                        <div className="d-flex bg-secondary p-4">
-                                             <h1 className="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">5</h1>
-                                             <div className="ps-3">
-                                                  <p className="mb-0">Years of</p>
-                                                  <h5 className="mb-0">Experience</h5>
-                                             </div>
-                                        </div>
-                                   </div>
-                                   <div className="col-md-4 col-lg-6 col-xl-4">
-                                        <div className="d-flex bg-secondary p-4">
-                                             <h1 className="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">100</h1>
-                                             <div className="ps-3">
-                                                  <p className="mb-0">Happy</p>
-                                                  <h5 className="mb-0">Clients</h5>
-                                             </div>
-                                        </div>
-                                   </div>
-                                   <div className="col-md-4 col-lg-6 col-xl-4">
-                                        <div className="d-flex bg-secondary p-4">
-                                             <h1 className="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">200</h1>
-                                             <div className="ps-3">
-                                                  <p className="mb-0">Complete</p>
-                                                  <h5 className="mb-0">Projects</h5>
-                                             </div>
-                                        </div>
-                                   </div>
-                              </div>
+                              
                          </section>
                          {/* <!-- About End --> */}
 
@@ -141,7 +113,7 @@ function Home() {
                                         </div>
                                         <div className="skill mb-4">
                                              <div className="d-flex justify-content-between">
-                                                  <p className="mb-2">PHP</p>
+                                                  <p className="mb-2">Javascript</p>
                                                   <p className="mb-2">90%</p>
                                              </div>
                                              <div className="progress">
@@ -152,7 +124,7 @@ function Home() {
                                    <div className="col-sm-6">
                                         <div className="skill mb-4">
                                              <div className="d-flex justify-content-between">
-                                                  <p className="mb-2">Javascript</p>
+                                                  <p className="mb-2">Git</p>
                                                   <p className="mb-2">90%</p>
                                              </div>
                                              <div className="progress">
@@ -161,7 +133,7 @@ function Home() {
                                         </div>
                                         <div className="skill mb-4">
                                              <div className="d-flex justify-content-between">
-                                                  <p className="mb-2">Angular JS</p>
+                                                  <p className="mb-2">React</p>
                                                   <p className="mb-2">95%</p>
                                              </div>
                                              <div className="progress">
@@ -170,7 +142,7 @@ function Home() {
                                         </div>
                                         <div className="skill mb-4">
                                              <div className="d-flex justify-content-between">
-                                                  <p className="mb-2">Wordpress</p>
+                                                  <p className="mb-2">API</p>
                                                   <p className="mb-2">85%</p>
                                              </div>
                                              <div className="progress">
@@ -184,26 +156,15 @@ function Home() {
 
                          {/* <!-- Expericence Start --> */}
                          <section className="py-5 wow fadeInUp" data-wow-delay="0.1s">
-                         <h1 className="title pb-3 mb-5">Experience</h1>
+                         <h1 className="title pb-3 mb-5">Techsters Software Development</h1>
                               <div className="border-start border-2 border-light pt-2 ps-5">
                                    <div className="position-relative mb-4">
                                         <span className="bi bi-arrow-right fs-4 text-light position-absolute" style={{top: '-5px', left: '-50px'}}></span>
-                                        <h5 className="mb-1">Web Designer</h5>
-                                        <p className="mb-2">Soft Company | <small>2000 - 2050</small></p>
-                                        <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p>
+                                        <h5 className="mb-1">Software Engineer</h5>
+                                        <p className="mb-2">Techsters | <small>2022 - 2023</small></p>
+                                        <p>Learning Software Development</p>
                                    </div>
-                                   <div className="position-relative mb-4">
-                                        <span className="bi bi-arrow-right fs-4 text-light position-absolute"  style={{top: '-5px', left: '-50px'}}></span>
-                                        <h5 className="mb-1">Web Designer</h5>
-                                        <p className="mb-2">Soft Company | <small>2000 - 2050</small></p>
-                                        <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p>
-                                   </div>
-                                   <div className="position-relative mb-4">
-                                        <span className="bi bi-arrow-right fs-4 text-light position-absolute"  style={{top: '-5px', left: '-50px'}}></span>
-                                        <h5 className="mb-1">Web Designer</h5>
-                                        <p className="mb-2">Soft Company | <small>2000 - 2050</small></p>
-                                        <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam</p>
-                                   </div>
+                                 
                               </div>
                          </section>
                          {/* <!-- Expericence End --> */}
@@ -211,7 +172,7 @@ function Home() {
                          {/* <!-- Contact Start --> */}
                          <section className="py-5 wow fadeInUp" data-wow-delay="0.1s" id="contact">
                               <h1 className="title pb-3 mb-5">Contact Me</h1>
-                              <p className="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a></p>
+                              <p className="mb-4">Get in touch lets Vibe</p>
                               <form>
                                    <div className="row g-3">
                                         <div className="col-md-6">
@@ -254,16 +215,9 @@ function Home() {
                                         <a className="btn btn-dark btn-square mx-1" href="#"><i className="fab fa-facebook-f"></i></a>
                                         <a className="btn btn-dark btn-square mx-1" href="#"><i className="fab fa-linkedin-in"></i></a>
                                         <a className="btn btn-dark btn-square mx-1" href="#"><i className="fab fa-instagram"></i></a>
-                                   </div>
-                                   <div className="d-flex justify-content-center mb-3">
-                                        <a className="text-light px-3 border-end" href="#">Privacy</a>
-                                        <a className="text-light px-3 border-end" href="#">Terms</a>
-                                        <a className="text-light px-3 border-end" href="#">FAQs</a>
-                                        <a className="text-light px-3" href="#">Help</a>
-                                   </div>
-                                             
+                                   </div>            
                                    {/* <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***--> */}
-                                   <p className="m-0"> &copy; All Rights Reserved. Designed by <a href="https://htmlcodex.com">HTML Codex</a></p>
+                                   <p className="m-0"> &copy; All Rights Reserved.</p>
                               </div>
                          </section>
                          {/* <!-- Footer End --> */}
